@@ -1,0 +1,33 @@
+
+
+.detailDiv {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 100px auto;
+    background-color: #F9F54B;
+    padding: 30px;
+    max-width: 800px;
+    border-radius: 5px;
+    color: black;
+    border: 10px solid #3F979B;
+    align-items: center;
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.subtitle {
+    background-color: #3F979B;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}   
+
+.detailImg{
+    border-radius: 50%;
+    border: 2px solid black;
+}
